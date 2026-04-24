@@ -1,0 +1,23 @@
+{
+  "_comentario": "Archivo de configuración para cámara Allied Vision - Proyecto Galletas",
+
+  "exposure_mode":       "Timed",
+  "exposure_time":       215.0,
+  "gain":                17.0,
+  "gamma":               0.0,
+  "pixel_format":        "BayerRG8",
+
+  "width":               2448,
+  "height":              2048,
+  "offset_x":            0,
+  "offset_y":            0,
+
+  "balance_white_auto":  "Off",
+
+  "trigger_source":      "Software",
+  "trigger_mode":        "Off",
+
+  "features": {
+    "AcquisitionMode": "SingleFrame"
+  }
+}
